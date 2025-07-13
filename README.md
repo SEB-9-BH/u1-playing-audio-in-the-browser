@@ -22,4 +22,4 @@ In this module, you'll get an introduction to the world of audio in web developm
 
 ## Starter code
 
-🟢 [Starter code](https://github.com/u1-playing-audio-in-the-browser-starter-code)
+🟢 [Starter code](https://github.com/SEB-9-BH/u1-playing-audio-in-the-browser-starter-code)
